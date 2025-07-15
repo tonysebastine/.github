@@ -7,7 +7,7 @@ community assistance is invaluable.
 
 If you suspect a vulnerability, we encourage you to share it with us by sending an email
 to [@tonysebastine](https://github.com/tonysebastine) at
-github@reker.dk. Please refrain from publicizing the issue before we have thoroughly investigated and resolved it. Our
+github@tonysebatine. Please refrain from publicizing the issue before we have thoroughly investigated and resolved it. Our
 commitment is to acknowledge your report promptly and maintain clear communication throughout the process.
 
 Thank you for your contribution in enhancing CardMesh's security!
